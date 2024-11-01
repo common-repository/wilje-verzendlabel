@@ -1,0 +1,14 @@
+/**
+ * All of the CSS for your admin-specific functionality should be
+ * included in this file.
+ */
+
+ #wilje_online_verzendlabel_parcel_options {
+    max-width: 36%;
+ }
+
+ #wilje_online_verzendlabel_download_label, #wilje_online_verzendlabel_send_track_trace {
+    width: 100%;
+    text-align: center;
+ }
+ 
